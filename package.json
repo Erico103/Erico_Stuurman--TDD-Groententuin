@@ -1,0 +1,23 @@
+{
+  "name": "tdd-groententuin",
+  "version": "1.0.0",
+  "description": "Eindopdracht",
+  "main": "farm.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erico103/TDD-Groententuin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erico103/TDD-Groententuin/issues"
+  },
+  "homepage": "https://github.com/Erico103/TDD-Groententuin#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
